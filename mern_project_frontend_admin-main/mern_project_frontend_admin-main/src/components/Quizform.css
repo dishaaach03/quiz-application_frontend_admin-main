@@ -1,0 +1,14 @@
+input{
+    margin-left: 3% !important;
+}
+.question{
+    margin-left: 2% !important;
+    width:500px;
+}
+.option{
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+}
+.title{
+    margin-left: 10% !important;
+}

@@ -1,0 +1,22 @@
+.c{
+    height: 100px !important;
+    width: 100px;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    color: white !important;
+    background-color: rgb(115, 181, 15) !important;
+    font-weight: bolder;
+}
+.c:hover{
+    transform:scale(1.15);
+    background-color: green !important;
+}
+
+.d-flex{
+    flex-wrap:wrap;
+    
+}
+body{
+    background:linear-gradient(45deg,lightyellow,lightyellow);
+}
